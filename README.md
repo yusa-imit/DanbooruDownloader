@@ -1,5 +1,8 @@
 # DanbooruDownloader
 **DanbooruDownloader** is image download software for [Danbooru](https://danbooru.donmai.us/).
+Origin source is not maintained anymore, fork and release recent files
+
+You need .net framework 3.1 download from [**HERE**](https://dotnet.microsoft.com/download/dotnet/3.1)
 
 ## Quick start
 ```
